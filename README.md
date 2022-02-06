@@ -1,2 +1,4 @@
 # Relogio-digital
-Relógio Digital por Henrique do Carmo Silva
+Relógio Digital feito em HTML CSS e JAVASCRIPT por Henrique do Carmo Silva
+
+
